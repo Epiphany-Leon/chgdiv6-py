@@ -1,0 +1,9 @@
+[project]
+name = "chgdiv6"
+version = "0.1.0"
+description = "This project is forked from https://gitee.com/chenshaoxuemei/chgdiv6#%E4%BB%8B%E7%BB%8D"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyinstaller>=6.13.0",
+]
