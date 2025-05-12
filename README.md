@@ -36,11 +36,11 @@ The original project suggests that divination based on numbers yields better res
 - E-mail 2: lgao28@jh.edu
 
 ## Acknowledgements
-本程序基于该项目：https://gitee.com/chenshaoxuemei/chgdiv6#%E4%BB%8B%E7%BB%8D，原项目中所写内容作者为：兰州大学 陈志豪，E-mail: chenzhh20@lzu.edu.cn
+本程序基于该项目：https://gitee.com/chenshaoxuemei/chgdiv6#%E4%BB%8B%E7%BB%8D。原项目中所写内容作者为：兰州大学 陈志豪，E-mail: chenzhh20@lzu.edu.cn
 
 仅供学习参考，请勿用于商业用途。如有侵权，请联系本人删除。
 
-This program is based on the project: https://gitee.com/chenshaoxuemei/chgdiv6#%E4%BB%8B%E7%BB%8D. The content in the original project was authored by *Chen Zhihao* from **Lanzhou University**, E-mail: chenzhh20@lzu.edu.cn
+This program is based on the project: https://gitee.com/chenshaoxuemei/chgdiv6#%E4%BB%8B%E7%BB%8D. The content in the original project was authored by **Chen Zhihao** from **Lanzhou University**, E-mail: chenzhh20@lzu.edu.cn
 
 This is for learning and reference purposes only; please do not use it for commercial purposes. If there is any infringement, please contact me to have it removed.
 
@@ -55,8 +55,9 @@ chgdiv6 [numbers]
 ### Description
 chgdiv6 使用钱筮法，结果以卜辞形式呈现，钱筮法是大衍筮法的简化；你可以在网络上查询这些卜辞的含义，希望能给你带来启示。
 - 模式1-因时起卦：直接输入 chgdiv6 以当前的时间起卦，每一秒的结果都是不同的。
-- 模式2-因数起卦：在 chgdiv6 后输入一串数字，会得到这串数字对应的结果,结果不因时间改变.
-- 模式3-问题/测字起卦：在 chgdiv6 后输入你的问题，程序会提取字符串对应的随机数，结果不因时间改变.
+- 模式2-因数起卦：在 chgdiv6 后输入一串数字，会得到这串数字对应的结果,结果不因时间改变。
+- 模式3-问题/测字起卦：在 chgdiv6 后输入你的问题，程序会提取字符串对应的随机数，结果不因时间改变。
+
 心诚则灵 无疑不卜 事在人为。
 
 chgdiv6 uses the coin divination method, and the results are presented in the form of divination statements. The coin divination method is a simplified version of the Dayan divination method;
@@ -64,6 +65,7 @@ You can look up the meanings of these divination statements online, and hopefull
 - Mode 1 - Divination based on the current time: Simply enter chgdiv6 and the result will vary every second based on the current time.
 - Mode 2 - Divination based on numbers: Enter a string of numbers after chgdiv6, and you'll get the corresponding result, which won't change with time.
 - Mode 3 - Question / Character Divination: Enter your question after chgdiv6, and the program will extract a random number corresponding to the string. The result will not change over time.
+
 If you are sincere, it will be effective. No divination without doubts. It's up to you to make things happen.
 
 ### Note
